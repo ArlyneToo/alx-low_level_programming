@@ -6,10 +6,9 @@
  *
  * Return: Always 0 (succesful)
  */
-
 int main (void)	
 {
-       puts("\"Programming is like buildling a multilingual puzzle,\n");
+       puts("Programming is like buildling a multilingual puzzle,\n");
        return (0);
 } 
 
