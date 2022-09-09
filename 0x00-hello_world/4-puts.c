@@ -1,13 +1,16 @@
 #include <stdio.h>
 
 /**
- * main -print
  *
- * Return:Always 0 (complete)
+ * main - printing
+ *
+ * Return: Always 0 (succesful)
  */
 
-int main (void) 
+int main (void)	
 {
-	puts("\"programming is like building a multilingual puzzle");
-	return (0);
+       puts("\"Programming is like buildling a multilingual puzzle,\n");
+       return (0);
 } 
+
+           	
