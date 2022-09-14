@@ -10,7 +10,7 @@ void print_alphabet(void)
 	ch = 'a';
 	while (ch <= 'z')
 	{
-		_puchar(ch);
+		_putchar(ch);
 		ch++;
 	}
 
